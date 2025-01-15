@@ -18,6 +18,7 @@ My Youtube Videos
 
 
 My DeviantArt Profile and other social media
+
 https://www.deviantart.com/thisislizandro
 https://www.youtube.com/channel/UCC_iSYXg2uHxvp8Q3Gc9Kcw
 https://www.instagram.com/lizandrosocial
