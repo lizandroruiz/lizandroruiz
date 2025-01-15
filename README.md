@@ -17,6 +17,15 @@ My Youtube Videos
 <iframe width="432" height="432" src="https://www.youtube.com/embed/QjV7nPjwenk" title="A Metafictional Revelation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
+
+
+
+
+
+
+
+
 My DeviantArt Profile and other social media
 
 https://www.deviantart.com/thisislizandro
