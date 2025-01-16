@@ -28,14 +28,13 @@ My Youtube Videos
 
 My DeviantArt Profile and other social media
 
-https://www.deviantart.com/thisislizandro
-https://www.youtube.com/channel/
-UCC_iSYXg2uHxvp8Q3Gc9Kcw
-https://www.instagram.com/lizandrosocial
-https://www.facebook.com/lizandrosocial
-https://www.roblox.com/users/702877029/profile
+www.deviantart.com/thisislizandro
+www.youtube.com/@lizandrosocial
+www.instagram.com/lizandrosocial
+www.facebook.com/lizandrosocial
+www.roblox.com/users/702877029/profile
 
 
 Privacy Policy
 
-https://lizandroruiz.com/privacy.md
+lizandroruiz.com/privacy.md
