@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 My Youtube Videos
 
-<iframe width="432" height="432" src="https://www.youtube.com/embed/J18beE79oKk" title="A Metafictional Revelation (Extended)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="432" height="432" src="https://www.youtube.com/embed/QjV7nPjwenk" title="A Metafictional Revelation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J18beE79oKk" title="A Metafictional Revelation (Extended)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QjV7nPjwenk" title="A Metafictional Revelation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
