@@ -13,17 +13,17 @@ You can click the Preview link to take a look at your changes.
 
 My Youtube Videos
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/J18beE79oKk" title="A Metafictional Revelation (Extended)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="480" height="270" src="https://www.youtube.com/embed/QjV7nPjwenk" title="A Metafictional Revelation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
+<div style="width: 100%; min-width: 400px; max-width: 800px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/-J18beE79oKk" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+  
+</div>
+<div style="width: 100%; min-width: 400px; max-width: 800px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/-QjV7nPjwenk" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+</div>
 
 
 My DeviantArt Profile and other social media
